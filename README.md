@@ -343,7 +343,7 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[cmux](https://github.com/manaflow-ai/cmux)** `⭐ 27.6k` — Open-source platform for running multiple coding agents in parallel.
 
-- **[Happy](https://github.com/slopus/happy)** `⭐ 24.1k` — Open-source desktop app and `happy` CLI that run Claude Code, Codex, Grok, and other agent sessions side by side on your own machine or server, with an end-to-end encrypted iOS/Android app for the same sessions. MIT.
+- **[Happy](https://github.com/slopus/happy)** `⭐ 24.1k` — Desktop app and `happy` CLI that run coding-agent sessions side by side on your own machine or server, with an end-to-end encrypted iOS/Android app for the same sessions. The CLI wraps Claude Code, Codex, Antigravity, OpenClaw, and any ACP agent; the desktop app adds Grok. MIT.
 
 - **[Paseo](https://github.com/getpaseo/paseo)** `⭐ 19.6k` — Self-hosted daemon that runs Claude Code, Codex, Copilot, OpenCode, and Pi agents in parallel on your own machines, driven from a `paseo` CLI (`run --worktree`, `ls`, `attach`, `send`) or from desktop, web, and mobile clients; voice control, no telemetry. TypeScript, AGPL-3.0.
 
